@@ -17,3 +17,7 @@ filter: Takes a calback function that returns a boolean value and applys that ca
 reduce: takes a callback function and a starting value. the callback function takes an accumulator and the current element and performs an operation on them. it returns a new list containing a single element that represents the result of applying the operation to the entire list.
 
 slice: takes a start, and end point. It returns a new list conaining only the elements that are between the two points. The ending point is non-inclusive.
+
+## UI challenge
+
+https://codepen.io/anon/pen/LLWYoQ
